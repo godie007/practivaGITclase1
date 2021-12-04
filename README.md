@@ -1,6 +1,9 @@
 ## Ejercicios de git para aprender
 
 Se realiza una versión inicial del proyecto git
+#### Guias Recomendadas
+[Guia1](https://www.atlassian.com/es/git/tutorials/setting-up-a-repository)
+
 Prerrequisitos:
 **instalar git**: [Descargar](https://git-scm.com/downloads)
 **instalar Visual Studio Code**: [Descargar](https://code.visualstudio.com/download)
