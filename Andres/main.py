@@ -29,5 +29,10 @@ def median(list):
 # cal the median function with a random list of numbers random
 print(median([1,2,3,4,5,6,7,8,9,10]))
 
+# revert a string with the reverse function
+def reverse(string):
+    return string[::-1]
+# call the reverse function with a random string
+print(reverse("diego"))
 
 print(fibonacci(4))
