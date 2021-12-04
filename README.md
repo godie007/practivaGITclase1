@@ -17,18 +17,25 @@ Prerrequisitos:
  ## comandos
  git init
  ```inicializar el proyecto```
+ 
 agregar cambios en el repositorio
  ``` git add ., git add <nombre del archivo o carpeta> ```
+ 
  comentar cambio
  ``` git commit -m "comentario del cambio" ```
+ 
  confirmar la accion
  ``` git push ```
+ 
  crear rama
  ``` git checkout -b dfe/descripcion ```
+ 
  cambiar o switchar de rama
  ``` git checkout rama ```
+ 
  bajar cambios en una rama
  ``` git pull ```
+ 
  saber el estado de los cambios en consola
  ``` git status ```
 
